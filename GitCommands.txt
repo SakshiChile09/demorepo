@@ -1,0 +1,6 @@
+1] git init
+2] git add <filenames with extensions>
+3] git commit -m <message>
+4] git branch -M main
+5] git remote add origin <link of the git acc>
+6] git push -u origin main
